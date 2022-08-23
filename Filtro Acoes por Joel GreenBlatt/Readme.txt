@@ -1,3 +1,5 @@
+*Este programa não resulta em uma recomendação de compra ou venda de ações*
+
 Magic Formula por Joel Greenblatt
 O programa executa a Fórmula Magica estabelecida por Joel GreenBlatt
 
